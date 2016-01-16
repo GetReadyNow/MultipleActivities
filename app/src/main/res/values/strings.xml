@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultipleActivities</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_name_text_box">Enter your name:</string>
+    <string name="user_validate_button">Validate</string>
+    <string name="calling_activity_message">The calling activity was</string>
+    <string name="get_name_text_box">Read the name</string>
+    <string name="user_name_sent_back">user name sent back</string>
+</resources>
